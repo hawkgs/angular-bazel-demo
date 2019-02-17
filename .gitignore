@@ -1,0 +1,6 @@
+bazel-angular-bazel
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
+node_modules
